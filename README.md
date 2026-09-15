@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Estructura y Organización de Datos
 
 - Repositorio de la materia de Estructura y Organización de Datos, Semestre 2026B
@@ -15,3 +17,5 @@
 - Unidad 3: Estructuras no lineales
 
 - Unidad 4: Métodos de ordenamiento y búsqueda
+
+cambio en el codespace
