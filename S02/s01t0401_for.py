@@ -21,7 +21,7 @@ for number in range (1,n+1):
    # sum = 3 
    #3: sum <- 3 + 3
    # ...
-   # 100: sum <- anterior a Sum(o se pone sum_(-1)) + 100 
+   # 100: sum <- anterior a Sum(o se pone sum_(-1)) + 100
 print(f"La suma de 1 hasta {n} es: {sum}")
 
 # Tomando el tiempo final 
