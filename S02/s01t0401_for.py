@@ -28,4 +28,4 @@ print(f"La suma de 1 hasta {n} es: {sum}")
 timestamp_02 = time.time()
 
 # Impresion del tiempo de ejecución 
-print(f"Tiempo transcurrido: {(timestamp_02 - timestamp_01) * 1e6:.2f}microsegundos")
+print(f"Tiempo de ejecución: {(timestamp_02 - timestamp_01) * 1e6} μs")
