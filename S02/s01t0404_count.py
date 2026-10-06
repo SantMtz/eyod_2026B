@@ -1,5 +1,5 @@
 # Se crea una lista de estudiantes
-students_list_01  = ['Jordan', 'Kyrie', 'Iangay', 'REGRESA VALERIA'] # O(n)
+students_list_01  = ['Jordan', 'ana', 'alejo', 'Jessica'] # O(n)
 
 def random_function(students):
     first = students[0] # O(1)
