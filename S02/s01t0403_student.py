@@ -24,3 +24,4 @@ def check_stundent(input_student, student_list):
 # Probando algoritmo
 check_stundent("Kyrie", student_list_02)
 
+
