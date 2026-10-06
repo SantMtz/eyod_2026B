@@ -1,14 +1,16 @@
-student_list_01 = ['jordan', 'pipen', 'curry', 'Shac'] #?
+# Se crea una lista de estudiantes
+students_list_01  = ['Jordan', 'Kyrie', 'Iangay', 'REGRESA VALERIA'] # O(n)
 
 def random_function(students):
-    first = students[0] #?
-    total = 0 #?
-    new_list = [] #?
+    first = students[0] # O(1)
+    total = 0 # O(1)
+    new_list = [] # O(1)
 
-    for student in students:
-        total += 1 #?
-        new_list.append(student) #?
-        print(new_list) #?
-        return total #?
+    for student in students: # O(n)
+        total += 1 # O(1)
+        new_list.append(student) # O(1)
 
-print(random_function(student_list_01))
+        print(new_list) # O(1
+        return total # O(1)
+
+    print(random_function(students_list_01)) # O(n)
