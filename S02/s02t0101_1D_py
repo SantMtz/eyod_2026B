@@ -33,13 +33,17 @@ num_to_find = 30
 
 # Modify a value
 # bracket notation    
-my_array[2] = 30
+my_array[7] = 30
 
 try:
     print(f"Localizacion de {num_to_find}: {my_array.index(num_to_find)}") 
 except:
-    print("Numero no encontrado")
+    print("Numero no encontrado!!!")
 
-# Busqueda por indices
+# Asignado valor en un indice que no existe
+try:
+    my_array[7] = 30
+except:
+    print("Indice no existe!!!")
 
            
